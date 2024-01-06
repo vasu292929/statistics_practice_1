@@ -1,4 +1,4 @@
-# statistics_practice_1
+# statistics_practice_
 1. central tendency (mean ,median ,mode)
 2. calculate mode with help of statistics
 3. calculate the mode with the help of scipy
